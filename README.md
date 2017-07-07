@@ -1,1 +1,3 @@
-# estrogen-receptor-alpha-qsar
+# Codes and Data for Estrogen Receptor Alpha QSAR Model
+
+To be uploaded soon following the publication of this work...
