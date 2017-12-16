@@ -1,6 +1,6 @@
 # Probing the origin of estrogen receptor alpha inhibition via large-scale QSAR study
 
-This repository is comprised of 4 Jupyter notebooks constituting the entire workflow used in the construction of QSAR model for predicting the pIC50 value of estrogen receptor inhibition.
+This repository is comprised of 4 Jupyter notebooks constituting the entire workflow used in the construction of QSAR model for predicting the pIC<sub>50</sub> value of estrogen receptor inhibition.
 
 This repository includes:
 * ***1_ERa_data_preparation.ipynb***
