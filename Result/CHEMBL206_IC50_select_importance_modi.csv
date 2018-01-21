@@ -1,0 +1,13 @@
+Filename,R2_train,RMSE_train,Q2_CV,RMSE_CV,Q2_External,RMSE_External,R2-Q2,Q2-Q2ext
+AtomPairs2DFingerprintCount.csv,0.927,0.375,0.730,0.722,0.727,0.533,0.197,0.003
+AtomPairs2DFingerprinter.csv,0.849,0.540,0.671,0.797,0.684,0.616,0.178,-0.013
+EStateFingerprinter.csv,0.866,0.509,0.681,0.784,0.711,0.563,0.185,-0.030
+ExtendedFingerprinter.csv,0.844,0.549,0.689,0.775,0.669,0.645,0.155,0.019
+Fingerprinter.csv,0.811,0.604,0.657,0.813,0.701,0.584,0.154,-0.043
+GraphOnlyFingerprinter.csv,0.797,0.626,0.656,0.815,0.637,0.708,0.141,0.019
+KlekotaRothFingerprintCount.csv,0.912,0.413,0.708,0.750,0.722,0.542,0.203,-0.014
+KlekotaRothFingerprinter.csv,0.815,0.597,0.654,0.817,0.697,0.591,0.161,-0.043
+MACCSFingerprinter.csv,0.859,0.522,0.732,0.719,0.705,0.575,0.127,0.027
+PubchemFingerprinter.csv,0.835,0.565,0.703,0.757,0.714,0.557,0.132,-0.011
+SubstructureFingerprintCount.csv,0.941,0.337,0.730,0.722,0.734,0.520,0.212,-0.004
+SubstructureFingerprinter.csv,0.866,0.509,0.691,0.773,0.675,0.633,0.175,0.015

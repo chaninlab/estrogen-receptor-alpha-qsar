@@ -1,0 +1,177 @@
+name: ER_QSAR
+channels:
+- rdkit
+- biocore
+- openbabel
+- mw
+- bioconda
+- defaults
+dependencies:
+- keepalive=0.5=py27_0
+- mmtf-python=1.0.5=py27_0
+- onto2nx=0.1.0=py27_0
+- py2neo=3.1.2=py27_0
+- pybel=0.4.0=py27_0
+- pyfiglet=0.7.5=py27_0
+- rdflib=4.2.2=py27_0
+- rdflib-jsonld=0.4=py27_0
+- sparqlwrapper=1.7.6=py27_0
+- scikit-bio=0.4.2=py27_0
+- appnope=0.1.0=py27_0
+- backports=1.0=py27_0
+- backports_abc=0.5=py27_0
+- biopython=1.68=np111py27_0
+- bleach=1.5.0=py27_0
+- bz2file=0.98=py27_0
+- bzip2=1.0.6=3
+- cachecontrol=0.11.7=py27_0
+- cairo=1.14.8=0
+- click=6.7=py27_0
+- colorama=0.3.9=py27_0
+- configparser=3.5.0=py27_0
+- contextlib2=0.5.5=py27_0
+- cycler=0.10.0=py27_0
+- cython=0.25.2=py27_0
+- decorator=4.0.11=py27_0
+- entrypoints=0.2.3=py27_0
+- enum34=1.1.6=py27_0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- functools32=3.2.3.2=py27_0
+- future=0.16.0=py27_1
+- get_terminal_size=1.0.0=py27_0
+- graphviz=2.38.0=3
+- html5lib=0.999=py27_0
+- icu=54.1=0
+- ipykernel=4.6.1=py27_0
+- ipython=5.3.0=py27_0
+- ipython_genutils=0.2.0=py27_0
+- ipywidgets=6.0.0=py27_0
+- jbig=2.1=0
+- jinja2=2.9.6=py27_0
+- jpeg=8d=2
+- jsonschema=2.6.0=py27_0
+- jupyter=1.0.0=py27_3
+- jupyter_client=5.1.0=py27_0
+- jupyter_console=5.1.0=py27_0
+- jupyter_core=4.3.0=py27_0
+- lcms=1.19=0
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libtiff=4.0.6=2
+- libxml2=2.9.4=0
+- libxslt=1.1.29=0
+- lockfile=0.12.2=py27_0
+- lxml=3.8.0=py27_0
+- markupsafe=0.23=py27_2
+- matplotlib=2.0.2=np111py27_0
+- mistune=0.7.4=py27_0
+- mkl=2017.0.3=0
+- msgpack-python=0.4.8=py27_0
+- natsort=5.0.3=py27_0
+- nbconvert=5.2.1=py27_0
+- nbformat=4.3.0=py27_0
+- networkx=1.11=py27_0
+- nose=1.3.7=py27_1
+- notebook=5.0.0=py27_0
+- numpy=1.11.3=py27_0
+- openssl=1.0.2l=0
+- pandas=0.20.1=np111py27_0
+- pandocfilters=1.4.1=py27_0
+- path.py=10.3.1=py27_0
+- pathlib2=2.2.1=py27_0
+- pexpect=4.2.1=py27_0
+- pickleshare=0.7.4=py27_0
+- pil=1.1.7=py27_2
+- pillow=3.4.2=py27_0
+- pip=9.0.1=py27_1
+- pixman=0.34.0=0
+- plotly=2.0.9=py27_0
+- prompt_toolkit=1.0.14=py27_0
+- ptyprocess=0.5.1=py27_0
+- pydot=1.0.28=py27_0
+- pygments=2.2.0=py27_0
+- pyparsing=1.5.6=py27_0
+- pyqt=5.6.0=py27_2
+- python=2.7.13=0
+- python-dateutil=2.6.0=py27_0
+- pytz=2017.2=py27_0
+- pyzmq=16.0.2=py27_0
+- qt=5.6.2=2
+- qtconsole=4.3.0=py27_0
+- readline=6.2=2
+- reportlab=3.4.0=py27_0
+- requests=2.14.2=py27_0
+- requests-file=1.4.1=py27_0
+- scandir=1.5=py27_0
+- scikit-learn=0.18.1=np111py27_1
+- scipy=0.19.0=np111py27_0
+- seaborn=0.7.1=py27_0
+- setuptools=27.2.0=py27_0
+- simplegeneric=0.8.1=py27_1
+- singledispatch=3.4.0.3=py27_0
+- sip=4.18=py27_0
+- six=1.10.0=py27_0
+- sqlalchemy=1.1.11=py27_0
+- sqlite=3.13.0=0
+- ssl_match_hostname=3.4.0.2=py27_1
+- subprocess32=3.2.7=py27_0
+- terminado=0.6=py27_0
+- testpath=0.3.1=py27_0
+- tk=8.5.18=0
+- tornado=4.5.1=py27_0
+- traitlets=4.3.2=py27_0
+- wcwidth=0.1.7=py27_0
+- wheel=0.29.0=py27_0
+- widgetsnbextension=2.0.0=py27_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- glew=1.13.0=0
+- pmw=2.0.1=py27_0
+- pymol=1.8.0.0.r4144=py27_0
+- openbabel=2.4.1=py27_3
+- boost=1.56.0=py27_3
+- rdkit=2016.09.4=np111py27_1
+- pip:
+  - appdirs==1.4.3
+  - backports-abc==0.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.ssl-match-hostname==3.4.0.2
+  - beautifulsoup4==4.6.0
+  - bioservices==1.4.17
+  - chembl-webresource-client==0.8.51
+  - colorlover==0.2.1
+  - cufflinks==0.12.0
+  - easydev==0.9.34
+  - easydict==1.6
+  - ez-setup==0.9
+  - gevent==1.1.2
+  - greenlet==0.4.12
+  - grequests==0.2.0
+  - imageio==2.1.2
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - matplotlib-venn==0.11.5
+  - moviepy==0.2.3.2
+  - music21==3.1.0
+  - parse==1.6.5
+  - patsy==0.4.1
+  - plip==1.3.4
+  - prompt-toolkit==1.0.14
+  - pybiomed==1.0
+  - pydotplus==2.0.2
+  - pydpi==1.0
+  - pyparser==1.0
+  - requests-cache==0.4.13
+  - seqlearn==0.2
+  - statsmodels==0.8.0
+  - suds-jurko==0.6
+  - tqdm==4.11.2
+  - urllib3==1.20
+  - wrapt==1.10.10
+  - xmltodict==0.11.0
+  - zinc==0.1.17
+prefix: /Users/zeromtmu/anaconda2/envs/ER_QSAR
+
