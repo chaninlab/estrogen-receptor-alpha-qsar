@@ -25,6 +25,7 @@ PaDEL-Descriptor | Contain PaDEL JAR file along with fingerprint XML files
 QSAR | Contain CSV files of fingerprint descriptors along with bioactivity data of all compounds used for QSAR model building
 QSAR_select | Contain CSV files of the top 20 descriptors (from feature selection) used for building the final QSAR model
 Result | Contain all results data
+second_external_set |  Contain XLSX files of the second external set where bioactivity label contains the < and > symbols
 smiles | Contain SMILES data of all compounds used in this project
 SubFiles | contain raw data files used in constructing plots
 Train_Fp_normalized | contain fingerprint descriptors after normalized process
