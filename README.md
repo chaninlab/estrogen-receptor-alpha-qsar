@@ -35,4 +35,4 @@ If you use these codes and data, please cite the following paper:
 
 Citing us |
 --- |
-Suvannang N, Preeyanon L, Malik AA, Schaduangrat N, Shoombuatong W, Worachartcheewan A, Tantimongcolwat T, Nantasenamat C. Probing the origin of estrogen receptor alpha inhibition via large-scale QSAR study. ***RSC Advances*** (2018) In Press. |
+Suvannang N, Preeyanon L, Malik AA, Schaduangrat N, Shoombuatong W, Worachartcheewan A, Tantimongcolwat T, Nantasenamat C. [Probing the origin of estrogen receptor alpha inhibition via large-scale QSAR study](https://doi.org/10.1039/C7RA10979B). ***RSC Advances*** 8 (2018) 11344-11356. |
